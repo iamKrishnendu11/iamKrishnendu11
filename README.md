@@ -17,7 +17,7 @@ I am a passionate developer from **Kolkata, India**, focused on building scalabl
   <a href="https://linkedin.com/in/iamkrishnendu11">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/INSERT_YOUR_INSTAGRAM_USERNAME">
+  <a href="https://www.instagram.com/iamkrishnendu11">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
@@ -47,18 +47,18 @@ I am a passionate developer from **Kolkata, India**, focused on building scalabl
 #### 🩺 **BimarBanda.ai**
 *A health-tech solution designed to simplify patient management and access to medical resources.*
 - **Tech Stack:** MERN Stack, AI Integration
-- 📂 [View Code](INSERT_REPO_LINK_HERE) | 🌐 [Live Site](INSERT_WEBSITE_LINK_HERE)
+- 📂 [View Code](https://github.com/iamKrishnendu11/Bimar-Banda) | 🌐 [Live Site](https://bimar-banda.vercel.app/)
 
 #### 🧠 **MannMitra (Mental Wellness Platform)**
 *A comprehensive mental health platform built to assist users with stress relief and wellness tracking.*
 - **Tech Stack:** MERN Stack (MongoDB, Express, React, Node)
 - **Role:** Backend Architecture & Pitch Strategy (Team Algo Rhythm)
-- 📂 [View Code](INSERT_REPO_LINK_HERE) | 🌐 [Live Site](INSERT_WEBSITE_LINK_HERE)
+- 📂 [View Code](https://github.com/iamKrishnendu11/mannmitra) | 🌐 [Live Site](https://mannmitra.algo-rhythm.online/)
 
-#### 🏛️ **Smart Museum Ticket Booking**
+#### 🏛️ **Ticket Kaku(Smart Museum Ticket Booking)**
 *QR-based ticket booking system featuring an integrated chatbot for visitor assistance.*
 - **Tech Stack:** React, Node.js, Stripe API
-- 📂 [View Code](INSERT_REPO_LINK_HERE) | 🌐 [Live Site](INSERT_WEBSITE_LINK_HERE)
+- 📂 [View Code](https://github.com/iamKrishnendu11/ticketkaku2.0)
 
 ---
 
