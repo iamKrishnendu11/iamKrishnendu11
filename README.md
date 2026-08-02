@@ -87,9 +87,5 @@ I am a passionate developer from **Kolkata, India**, focused on building scalabl
   <img src="https://streak-stats.demolab.com?user=iamKrishnendu11&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 📊 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamKrishnendu11&theme=tokyo-night&hide_border=true"/>
-</p>
   
